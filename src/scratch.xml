@@ -2,7 +2,7 @@
 <mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
 	<mime-type type="application/x-scratch-project">
 		<sub-class-of type="application/octet-stream"/>
-		<comment>MIT Scratch Project File</comment>
+		<comment>MSH Scratch 1.5 Project File</comment>
 		<glob pattern="*.sb"/>
 		<glob pattern="*.sprite"/>
 	</mime-type>
