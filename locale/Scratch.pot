@@ -5,21 +5,38 @@ msgstr ""
 # FORMATTING
 ############################################
 
-# Language name as you'd like it to appear in the Languages menu# (Required)msgid "Language-Name"msgstr ""
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "MEMZ"
 
-# Directionality of language# LTR = Left to Right# RTL = Right to Leftmsgid "Language-Direction"msgstr ""
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr ""
 
 # Scale to apply to font size (2 for twice as large)
-# Use this if the font is too small for legibility on the Scratch interfacemsgid "Font-Scale"msgstr ""
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr ""
 
 # Set to 'true' or 'false'
-# Use this if you do not want any of the text to be bolded, for legibilitymsgid "Suppress-Bold"msgstr ""
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr ""
 
-# Font to use on a Windows systemmsgid "Win-Font"msgstr ""
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr ""
 
-# Font to use on a Mac systemmsgid "Mac-Font"msgstr ""
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr ""
 
-# Font to use on a Linux systemmsgid "Linux-Font"msgstr ""
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr ""
 
 ############################################
 # BLOCKS
@@ -29,7 +46,7 @@ msgid "%H sensor value"
 msgstr ""
 
 msgid "%L contains %s"
-msgstr ""
+msgstr "%L saved %s"
 
 msgid "%a of %m"
 msgstr ""
@@ -245,16 +262,16 @@ msgid "play drum %D for %n beats"
 msgstr ""
 
 msgid "play note %N for %n beats"
-msgstr ""
+msgstr "Play MIDI Beat %N"
 
 msgid "play sound %S"
-msgstr ""
+msgstr "play flute of %S"
 
 msgid "play sound %S until done"
-msgstr ""
+msgstr "life is thought but all we need is %S"
 
 msgid "point in direction %d"
-msgstr ""
+msgstr "NOSPOCE AT %d"
 
 msgid "point towards %m"
 msgstr ""
@@ -383,13 +400,13 @@ msgid "volume"
 msgstr ""
 
 msgid "wait %n secs"
-msgstr ""
+msgstr "time %n secs"
 
 msgid "wait until %b"
 msgstr ""
 
 msgid "when %k key pressed"
-msgstr ""
+msgstr "let user press %k"
 
 msgid "when %m clicked"
 msgstr ""
@@ -654,7 +671,7 @@ msgid "Exit presentation"
 msgstr ""
 
 msgid "Exit presentation mode"
-msgstr ""
+msgstr "Exit Easter Egg Mode"
 
 msgid "export"
 msgstr ""
@@ -744,7 +761,7 @@ msgid "ghost"
 msgstr ""
 
 msgid "Go To Scratch Website"
-msgstr ""
+msgstr "Go To SCARTCH.MIT.EDU"
 
 msgid "grab screen region for new costume"
 msgstr ""
@@ -1002,7 +1019,7 @@ msgid "Paintbrush"
 msgstr ""
 
 msgid "Password:"
-msgstr ""
+msgstr "Sercet Code you saved if youre a user"
 
 msgid "Percent? (100 gives original size)"
 msgstr ""
@@ -1173,10 +1190,10 @@ msgid "Share"
 msgstr ""
 
 msgid "Share this project"
-msgstr ""
+msgstr "STILL WILL DOWNLOAD A VIRUS"
 
 msgid "Share This Project Online"
-msgstr ""
+msgstr "DO NOT CLICK IT WILL INSTALL A VIRUS"
 
 msgid "Show Motor Blocks"
 msgstr ""
@@ -1287,7 +1304,7 @@ msgid "thing"
 msgstr ""
 
 msgid "this way"
-msgstr ""
+msgstr "i WIll kIll u"
 
 msgid "tilt"
 msgstr ""
@@ -1350,7 +1367,7 @@ msgid "Yes"
 msgstr ""
 
 msgid "Your project is now online at"
-msgstr ""
+msgstr "You saved all the code from the site scarcth.mit.edu! so proud of u son"
 
 msgid "Your Scratch website login name:"
 msgstr ""
