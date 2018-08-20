@@ -762,10 +762,10 @@ msgid "Game"
 msgstr "遊戲"
 
 msgid "Get surprise sprite"
-msgstr "來個令人驚喜的角色吧"
+msgstr "shutting up"
 
 msgid "Get the last thing deleted"
-msgstr "復原"
+msgstr "F***"
 
 msgid "Getting Started"
 msgstr "快速入門"
@@ -774,7 +774,7 @@ msgid "ghost"
 msgstr "鬼"
 
 msgid "Go To Scratch Website"
-msgstr "前往Scratch網站"
+msgstr "chubby to it da da"
 
 msgid "grab screen region for new costume"
 msgstr "擷取部分區域成為新造型"
@@ -1293,7 +1293,7 @@ msgid "Switch to full stage"
 msgstr "切換為大舞台"
 
 msgid "Switch to presentation mode"
-msgstr "切換為全螢幕"
+msgstr "switch to  something that donest exist by now"
 
 # Not sure~~waiting for better translation~
 msgid "Switch to small stage"
@@ -1311,14 +1311,14 @@ msgstr "此變數已被使用"
 msgid "that way"
 msgstr "逆時針"
 
-msgid "The file name already exists. Overwrite existing file?"
+msgid "The file name already exists. Destroy existing file?"
 msgstr "檔案名稱已存在，要覆蓋現有檔案嗎？"
 
 msgid "thing"
-msgstr "物品"
+msgstr "HjOt"
 
 msgid "this way"
-msgstr "順時針"
+msgstr "KoOPY"
 
 msgid "tilt"
 msgstr "傾斜"
